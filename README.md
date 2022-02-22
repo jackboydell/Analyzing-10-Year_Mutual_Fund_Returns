@@ -4,4 +4,4 @@ This project follows a simple data science workflow to illustrate which factors,
 Techniques/Approaches (Python): Pandas dataframes, Pearson correlation, Multiple linear regression, Sklearn model selection, Statsmodels, Seaborn visualization
 
 CS 370 - Professor Cheng, Willamette University (Spring 2021)
-Team members: 
+Team members: Luke Werkmeister-Martin, Hayden Vaughn, Ben Jaffe, Ben Kowalski
